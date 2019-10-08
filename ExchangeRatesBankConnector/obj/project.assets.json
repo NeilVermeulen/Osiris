@@ -12586,11 +12586,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Source\\ExchangeRates\\Services\\ExchangeRates.BankConnector\\ExchangeRatesBankConnector\\ExchangeRatesBankConnector\\ExchangeRatesBankConnector.csproj",
+      "projectUniqueName": "D:\\Source\\Test\\Osiris\\ExchangeRatesBankConnector\\ExchangeRatesBankConnector.csproj",
       "projectName": "ExchangeRatesBankConnector",
-      "projectPath": "D:\\Source\\ExchangeRates\\Services\\ExchangeRates.BankConnector\\ExchangeRatesBankConnector\\ExchangeRatesBankConnector\\ExchangeRatesBankConnector.csproj",
+      "projectPath": "D:\\Source\\Test\\Osiris\\ExchangeRatesBankConnector\\ExchangeRatesBankConnector.csproj",
       "packagesPath": "C:\\Users\\NeilV.OCV\\.nuget\\packages\\",
-      "outputPath": "D:\\Source\\ExchangeRates\\Services\\ExchangeRates.BankConnector\\ExchangeRatesBankConnector\\ExchangeRatesBankConnector\\obj\\",
+      "outputPath": "D:\\Source\\Test\\Osiris\\ExchangeRatesBankConnector\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
